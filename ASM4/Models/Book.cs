@@ -14,7 +14,7 @@ namespace ASM4.Models
         public string Author { get; set; }
         public string Image { get; set; }
         public int Price { get; set; }
-
+        public string testGit { get; set; }
         public Book()
         {
 
