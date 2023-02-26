@@ -20,6 +20,7 @@ namespace ASM4.Models
         {
 
         }
+        public string giaodien { get; set; }
         public Book(int id, string title, string description, string author, string image, int price)
         {
             Id = id;
